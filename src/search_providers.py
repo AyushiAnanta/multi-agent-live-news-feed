@@ -104,9 +104,14 @@ class GoogleNewsSearchProvider(BaseSearchProvider):
                         )
                         pub_iso = pub_dt.isoformat()
                     except Exception:
+                        pub_dt = None
                         pub_iso = now.isoformat()
                 else:
                     pub_iso = now.isoformat()
+
+                # Enforce the same time window the RSS baseline uses
+                if cutoff_time is not None and pub_dt is not None and pub_dt < cutoff_time:
+                    continue
 
                 title = entry.get("title", "")
                 source_meta = entry.get("source", {})
