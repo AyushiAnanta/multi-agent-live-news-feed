@@ -1,103 +1,94 @@
 {
-  "timestamp": "2026-09-26T19:22:01.002166",
+  "timestamp": "2026-09-27T22:57:42.179477",
   "benchmark_data": [
     {
       "query_id": "Q1",
       "category": "Artificial Intelligence",
       "query": "AI reasoning models and open source benchmarks",
       "closed_list": {
-        "status": "empty",
-        "total_articles": 0,
-        "unique_domains_count": 0,
-        "unique_domains": [],
+        "status": "complete",
+        "total_articles": 2,
+        "unique_domains_count": 1,
+        "unique_domains": [
+          "theguardian.com"
+        ],
         "unregistered_domains_count": 0,
         "unregistered_domains": [],
         "verified_articles": 0,
         "likely_articles": 0,
-        "mean_credibility_score": 0.0,
+        "mean_credibility_score": 49.0,
         "verified_yield_pct": 0.0,
         "effective_yield_pct": 0.0,
-        "trends_synthesized": 0,
-        "latency_sec": 2.48
+        "trends_synthesized": 1,
+        "latency_sec": 31.36
       },
       "open_web": {
-        "status": "empty",
-        "total_articles": 0,
-        "unique_domains_count": 0,
-        "unique_domains": [],
-        "unregistered_domains_count": 0,
-        "unregistered_domains": [],
+        "status": "complete",
+        "total_articles": 3,
+        "unique_domains_count": 2,
+        "unique_domains": [
+          "cnbc.com",
+          "theguardian.com"
+        ],
+        "unregistered_domains_count": 1,
+        "unregistered_domains": [
+          "cnbc.com"
+        ],
         "verified_articles": 0,
         "likely_articles": 0,
-        "mean_credibility_score": 0.0,
+        "mean_credibility_score": 46.67,
         "verified_yield_pct": 0.0,
         "effective_yield_pct": 0.0,
-        "trends_synthesized": 0,
-        "latency_sec": 6.51
+        "trends_synthesized": 1,
+        "latency_sec": 28.31
       },
-      "domain_coverage_gain": 0,
-      "article_yield_gain": 0
+      "domain_coverage_gain": 1,
+      "article_yield_gain": 1
     },
     {
       "query_id": "Q2",
       "category": "Geopolitics & Security",
       "query": "Red Sea shipping disruptions and maritime security",
       "closed_list": {
-        "status": "empty",
-        "total_articles": 0,
-        "unique_domains_count": 0,
-        "unique_domains": [],
-        "unregistered_domains_count": 0,
-        "unregistered_domains": [],
+        "status": "complete",
+        "total_articles": 1,
+        "unique_domains_count": 1,
+        "unique_domains": [
+          "aljazeera.com"
+        ],
+        "unregistered_domains_count": 1,
+        "unregistered_domains": [
+          "aljazeera.com"
+        ],
         "verified_articles": 0,
         "likely_articles": 0,
-        "mean_credibility_score": 0.0,
+        "mean_credibility_score": 39.0,
         "verified_yield_pct": 0.0,
         "effective_yield_pct": 0.0,
-        "trends_synthesized": 0,
-        "latency_sec": 0.66
+        "trends_synthesized": 1,
+        "latency_sec": 13.94
       },
       "open_web": {
         "status": "complete",
-        "total_articles": 14,
-        "unique_domains_count": 11,
+        "total_articles": 1,
+        "unique_domains_count": 1,
         "unique_domains": [
-          "dainikjagranmpcg.com",
-          "imdb.com",
-          "indiatimes.com",
-          "indiatoday.in",
-          "middleeastmonitor.com",
-          "multi-kit.com",
-          "portleads.com",
-          "redbus.in",
-          "reddit.com",
-          "voiceofemirates.com",
-          "wikipedia.org"
+          "aljazeera.com"
         ],
-        "unregistered_domains_count": 11,
+        "unregistered_domains_count": 1,
         "unregistered_domains": [
-          "dainikjagranmpcg.com",
-          "imdb.com",
-          "indiatimes.com",
-          "indiatoday.in",
-          "middleeastmonitor.com",
-          "multi-kit.com",
-          "portleads.com",
-          "redbus.in",
-          "reddit.com",
-          "voiceofemirates.com",
-          "wikipedia.org"
+          "aljazeera.com"
         ],
         "verified_articles": 0,
-        "likely_articles": 4,
-        "mean_credibility_score": 50.57,
+        "likely_articles": 0,
+        "mean_credibility_score": 39.0,
         "verified_yield_pct": 0.0,
-        "effective_yield_pct": 28.6,
+        "effective_yield_pct": 0.0,
         "trends_synthesized": 1,
-        "latency_sec": 11.56
+        "latency_sec": 14.65
       },
-      "domain_coverage_gain": 11,
-      "article_yield_gain": 14
+      "domain_coverage_gain": 0,
+      "article_yield_gain": 0
     },
     {
       "query_id": "Q3",
@@ -116,75 +107,59 @@
         "verified_yield_pct": 0.0,
         "effective_yield_pct": 0.0,
         "trends_synthesized": 0,
-        "latency_sec": 2.08
+        "latency_sec": 5.09
       },
       "open_web": {
-        "status": "complete",
-        "total_articles": 10,
-        "unique_domains_count": 5,
-        "unique_domains": [
-          "bookofaward.com",
-          "express.co.uk",
-          "facebook.com",
-          "indiatimes.com",
-          "wikipedia.org"
-        ],
-        "unregistered_domains_count": 5,
-        "unregistered_domains": [
-          "bookofaward.com",
-          "express.co.uk",
-          "facebook.com",
-          "indiatimes.com",
-          "wikipedia.org"
-        ],
+        "status": "empty",
+        "total_articles": 0,
+        "unique_domains_count": 0,
+        "unique_domains": [],
+        "unregistered_domains_count": 0,
+        "unregistered_domains": [],
         "verified_articles": 0,
         "likely_articles": 0,
-        "mean_credibility_score": 45.0,
+        "mean_credibility_score": 0.0,
         "verified_yield_pct": 0.0,
         "effective_yield_pct": 0.0,
-        "trends_synthesized": 1,
-        "latency_sec": 11.27
+        "trends_synthesized": 0,
+        "latency_sec": 5.36
       },
-      "domain_coverage_gain": 5,
-      "article_yield_gain": 10
+      "domain_coverage_gain": 0,
+      "article_yield_gain": 0
     },
     {
       "query_id": "Q4",
       "category": "Energy & Climate Policy",
       "query": "European Union carbon border adjustment mechanism enforcement",
       "closed_list": {
-        "status": "complete",
-        "total_articles": 1,
-        "unique_domains_count": 1,
-        "unique_domains": [
-          "nytimes.com"
-        ],
+        "status": "empty",
+        "total_articles": 0,
+        "unique_domains_count": 0,
+        "unique_domains": [],
         "unregistered_domains_count": 0,
         "unregistered_domains": [],
         "verified_articles": 0,
         "likely_articles": 0,
-        "mean_credibility_score": 49.0,
+        "mean_credibility_score": 0.0,
         "verified_yield_pct": 0.0,
         "effective_yield_pct": 0.0,
-        "trends_synthesized": 1,
-        "latency_sec": 2.49
+        "trends_synthesized": 0,
+        "latency_sec": 4.48
       },
       "open_web": {
-        "status": "complete",
-        "total_articles": 1,
-        "unique_domains_count": 1,
-        "unique_domains": [
-          "nytimes.com"
-        ],
+        "status": "empty",
+        "total_articles": 0,
+        "unique_domains_count": 0,
+        "unique_domains": [],
         "unregistered_domains_count": 0,
         "unregistered_domains": [],
         "verified_articles": 0,
         "likely_articles": 0,
-        "mean_credibility_score": 49.0,
+        "mean_credibility_score": 0.0,
         "verified_yield_pct": 0.0,
         "effective_yield_pct": 0.0,
-        "trends_synthesized": 1,
-        "latency_sec": 7.75
+        "trends_synthesized": 0,
+        "latency_sec": 5.08
       },
       "domain_coverage_gain": 0,
       "article_yield_gain": 0
@@ -206,7 +181,7 @@
         "verified_yield_pct": 0.0,
         "effective_yield_pct": 0.0,
         "trends_synthesized": 0,
-        "latency_sec": 2.03
+        "latency_sec": 3.88
       },
       "open_web": {
         "status": "empty",
@@ -221,7 +196,7 @@
         "verified_yield_pct": 0.0,
         "effective_yield_pct": 0.0,
         "trends_synthesized": 0,
-        "latency_sec": 6.0
+        "latency_sec": 6.8
       },
       "domain_coverage_gain": 0,
       "article_yield_gain": 0
@@ -231,74 +206,50 @@
       "category": "Regional Infrastructure",
       "query": "India semiconductor manufacturing fab construction updates",
       "closed_list": {
-        "status": "complete",
-        "total_articles": 2,
-        "unique_domains_count": 2,
-        "unique_domains": [
-          "hindustantimes.com",
-          "indiatimes.com"
-        ],
-        "unregistered_domains_count": 2,
-        "unregistered_domains": [
-          "hindustantimes.com",
-          "indiatimes.com"
-        ],
+        "status": "empty",
+        "total_articles": 0,
+        "unique_domains_count": 0,
+        "unique_domains": [],
+        "unregistered_domains_count": 0,
+        "unregistered_domains": [],
         "verified_articles": 0,
         "likely_articles": 0,
-        "mean_credibility_score": 42.0,
+        "mean_credibility_score": 0.0,
         "verified_yield_pct": 0.0,
         "effective_yield_pct": 0.0,
-        "trends_synthesized": 1,
-        "latency_sec": 2.47
+        "trends_synthesized": 0,
+        "latency_sec": 9.82
       },
       "open_web": {
-        "status": "complete",
-        "total_articles": 12,
-        "unique_domains_count": 8,
-        "unique_domains": [
-          "bbc.com",
-          "britannica.com",
-          "gov.in",
-          "hindustantimes.com",
-          "indiatimes.com",
-          "mapsofindia.com",
-          "wikipedia.org",
-          "worldatlas.com"
-        ],
-        "unregistered_domains_count": 8,
-        "unregistered_domains": [
-          "bbc.com",
-          "britannica.com",
-          "gov.in",
-          "hindustantimes.com",
-          "indiatimes.com",
-          "mapsofindia.com",
-          "wikipedia.org",
-          "worldatlas.com"
-        ],
-        "verified_articles": 1,
-        "likely_articles": 5,
-        "mean_credibility_score": 61.0,
-        "verified_yield_pct": 8.3,
-        "effective_yield_pct": 50.0,
-        "trends_synthesized": 1,
-        "latency_sec": 13.16
+        "status": "empty",
+        "total_articles": 0,
+        "unique_domains_count": 0,
+        "unique_domains": [],
+        "unregistered_domains_count": 0,
+        "unregistered_domains": [],
+        "verified_articles": 0,
+        "likely_articles": 0,
+        "mean_credibility_score": 0.0,
+        "verified_yield_pct": 0.0,
+        "effective_yield_pct": 0.0,
+        "trends_synthesized": 0,
+        "latency_sec": 8.92
       },
-      "domain_coverage_gain": 6,
-      "article_yield_gain": 10
+      "domain_coverage_gain": 0,
+      "article_yield_gain": 0
     }
   ],
   "summary": {
     "total_queries": 6,
     "total_articles_closed": 3,
-    "total_articles_open": 37,
-    "total_domains_closed": 3,
-    "total_domains_open": 25,
-    "domain_expansion_pct": 733.3,
-    "total_unregistered_domains_discovered": 24,
+    "total_articles_open": 4,
+    "total_domains_closed": 2,
+    "total_domains_open": 3,
+    "domain_expansion_pct": 50.0,
+    "total_unregistered_domains_discovered": 2,
     "total_verified_closed": 0,
-    "total_verified_open": 1,
-    "mean_score_closed": 15.17,
-    "mean_score_open": 34.26
+    "total_verified_open": 0,
+    "mean_score_closed": 14.67,
+    "mean_score_open": 14.28
   }
 }

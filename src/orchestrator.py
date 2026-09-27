@@ -197,7 +197,8 @@ class Orchestrator:
                         # Open-web articles were already discovered for this specific query,
                         # so give them a more forgiving filter (1+ keyword or preserve by default)
                         is_open_web = art.get("discovery_channel") == "open_web"
-                        min_matches = 1 if is_open_web else 2
+                        min_matches = 1  # loosened: AND-matching 2+ long Gemini-generated phrases against short RSS
+                  # snippets produced false negatives even on correctly-selected, on-topic articles
 
                         content = (art.get("title", "") + " " + art.get("summary", "")).lower()
                         match_count = sum(
